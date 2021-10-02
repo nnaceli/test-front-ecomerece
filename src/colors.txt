@@ -1,0 +1,31 @@
+Color List
+
+- main-bg: grey-lighten-5
+
+#header-home
+- bottons "vehiculos" & "Descubri Nissan": transparent
+- font-color "vehiculos" & "Descubri Nissan": text dark
+
+#header-List
+- bottons "vehiculos" & "Descubri Nissan": transparent
+- font-color "vehiculos" & "Descubri Nissan": text dark
+
+#coverPage
+- title and botton: red-darken-2
+- description: text-dark
+- botton font-color: white or grey-lighten-5
+
+#purchase-insentive
+- bg: grey-lighten-1
+- color_ grey-lighten-4
+
+#car-card
+- car-name: grey-darken-4
+- text-precio and text-aclaration: text-black-50
+- value-precio: grey-darken-4 or 3
+- text-link: red-darken-2
+
+#footer
+- main-bg: 
+- title: white
+- subtitel & links: text-white-50 or grey-lighten-1
